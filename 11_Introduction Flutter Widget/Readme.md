@@ -1,6 +1,6 @@
 # introduction flutter and flutter widget
 
-===
+---
 
 ## perkenalan flutter
 flutter merupakan framework yang memakai bahasa pemrograman dart yang berguna membuat aplikasi mobile,desktop, dan web.
